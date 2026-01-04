@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me:<br>
 Data science and machine learning projects <br>Open-source projects in data analysis, machine learning, or backend development.<br>Improving model performance, clean code practices, and real-world ML deployment.<br>Advanced machine learning, data visualization, and system-level programming concepts.<br>Python, SQL, machine learning basics, C/C++ logic, and data analysis workflows.
 
 
